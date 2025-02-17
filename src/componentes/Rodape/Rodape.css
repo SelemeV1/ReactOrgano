@@ -1,0 +1,41 @@
+.footer {
+  background: #6278f7;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  width: auto;
+}
+
+.footer-pri {
+  display: flex;
+  padding: 34px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.icons ul {
+  display: flex;
+  gap: 40px;
+  list-style: none;
+}
+
+.icons ul li {
+  cursor: pointer;
+  width: 28px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.icons img:hover {
+  transform: scale(1.4);
+}
+
+.logo img {
+  width: 180px;
+}
+
+.footer_text {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 500;
+}
