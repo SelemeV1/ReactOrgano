@@ -39,4 +39,4 @@ Publicar o projeto utilizando o Vercel.
 
 🌐 Link de visualização
 
-👉 Acesse aqui o projeto hospedado no Vercel
+👉 [Acesse aqui o projeto hospedado no Vercel](https://react-organo-sandy.vercel.app/)
